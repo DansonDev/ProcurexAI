@@ -73,6 +73,6 @@
 
 ---
 
-## 👤 Автор
-DansonDev
-ArtemR
+## 👤 Авторы
+- DansonDev
+- ArtemR
